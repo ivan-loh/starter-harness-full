@@ -1,6 +1,6 @@
 > This is the `starter-harness-full` template repository.
 > Start here: [Use this template](https://github.com/ivan-loh/starter-harness-full/generate)
-> Need a lighter setup? Compare the variants in [starter-harness-scaffolds](https://github.com/ivan-loh/starter-harness-scaffolds).
+> Need a lighter setup? Compare the variants in [starter-harness](https://github.com/ivan-loh/starter-harness).
 
 # {{PROJECT_NAME}}
 
