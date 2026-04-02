@@ -1,3 +1,7 @@
+> This is the `starter-harness-full` template repository.
+> Start here: [Use this template](https://github.com/ivan-loh/starter-harness-full/generate)
+> Need a lighter setup? Compare the variants in [starter-harness-scaffolds](https://github.com/ivan-loh/starter-harness-scaffolds).
+
 # {{PROJECT_NAME}}
 
 > Purpose: Be the main file for humans in the copied repository and explain what the project is, how to start, and where the main docs are.

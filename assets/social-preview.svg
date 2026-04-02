@@ -1,0 +1,29 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="88" y1="56" x2="1184" y2="596" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4E4DB"/>
+      <stop offset="1" stop-color="#E7EDF2"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="224" y1="164" x2="1064" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17324D"/>
+      <stop offset="1" stop-color="#264B6B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="170" cy="120" r="126" fill="#E6B8A8"/>
+  <circle cx="1114" cy="512" r="162" fill="#D5E0E8"/>
+  <rect x="170" y="160" width="940" height="330" rx="34" fill="url(#panel)"/>
+
+  <rect x="236" y="214" width="154" height="40" rx="20" fill="#E1A08A"/>
+  <text x="273" y="239" fill="#17324D" font-family="Helvetica" font-size="20" font-weight="700" letter-spacing="0.14em">FULL</text>
+
+  <text x="236" y="300" fill="#F8FBFD" font-family="Helvetica" font-size="44" font-weight="700">Full docs-first starter</text>
+  <text x="236" y="354" fill="#F8FBFD" font-family="Helvetica" font-size="44" font-weight="700">for deeper</text>
+  <text x="236" y="408" fill="#F8FBFD" font-family="Helvetica" font-size="44" font-weight="700">engineering work</text>
+
+  <text x="236" y="466" fill="#D6E6EE" font-family="Helvetica" font-size="24" font-weight="400">Design, API, data, operations, and release docs.</text>
+
+  <rect x="236" y="512" width="340" height="44" rx="22" fill="#B95C47"/>
+  <text x="270" y="540" fill="#F8FBFD" font-family="Helvetica" font-size="22" font-weight="700">Use this template on GitHub</text>
+</svg>
